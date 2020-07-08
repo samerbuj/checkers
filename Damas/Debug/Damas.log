@@ -1,0 +1,2 @@
+﻿D:\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  Damas.vcxproj -> D:\UAB\Problemas Visual Studio\MP\DamasAlumnos\\Program\Damas.exe
